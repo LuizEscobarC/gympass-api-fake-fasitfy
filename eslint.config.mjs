@@ -16,6 +16,7 @@ export default [
       indent: ['error', 2],
       'no-unused-vars': 'warn',
       'no-console': 'off',
+      'no-useless-constructor': 'off',
       eqeqeq: ['error', 'always'],
       curly: ['error', 'all'],
       'comma-dangle': ['error', 'never'],

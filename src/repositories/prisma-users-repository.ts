@@ -1,7 +1,7 @@
 import { prisma } from '@/lib/prisma'
 import { Prisma } from '@prisma/client'
 
-export class PrimaUsersRepository {
+export class PrismaUsersRepository {
 
   async create(data: Prisma.UserCreateInput) {
 
