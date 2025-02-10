@@ -14,7 +14,7 @@ export default [
       semi: ['error', 'never'],
       quotes: ['error', 'single'],
       indent: ['error', 2],
-      'no-unused-vars': 'warn',
+      'no-unused-vars': 'off',
       'no-console': 'off',
       'no-useless-constructor': 'off',
       eqeqeq: ['error', 'always'],
